@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Multiplayer 2D Game](README.md)
+* [Reference List](reference-list.md)
 
 ## 1 Analysis <a href="#analysis" id="analysis"></a>
 
