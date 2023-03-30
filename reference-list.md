@@ -13,3 +13,5 @@ Howarth, J., 2023. 50+ Amazing Video Game Industry Statistics (2023). Exploding 
 Newzoo, 2022. Top Countries & Markets by Game Revenues \[WWW Document]. Newzoo. URL https://newzoo.com/resources/rankings/top-10-countries-by-game-revenues (accessed 3.30.23).
 
 GrandViewResearch, 2020. Video Game Market Size & Share Growth Report, 2030, grandviewresearch.
+
+Clark, D.D.C., 2020. Will the Covid-19 lockdown prove to be a watershed moment for Esports? \[WWW Document]. Sports Gazette. URL https://sportsgazette.co.uk/will-covid-19-lockdown-prove-watershed-moment-esports/ (accessed 3.30.23).
