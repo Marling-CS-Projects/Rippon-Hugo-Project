@@ -11,3 +11,5 @@ Prescott, C., 2020. Internet access – households and individuals, Great Britai
 Howarth, J., 2023. 50+ Amazing Video Game Industry Statistics (2023). Exploding Topics. URL https://explodingtopics.com/blog/video-game-stats (accessed 3.30.23).
 
 Newzoo, 2022. Top Countries & Markets by Game Revenues \[WWW Document]. Newzoo. URL https://newzoo.com/resources/rankings/top-10-countries-by-game-revenues (accessed 3.30.23).
+
+GrandViewResearch, 2020. Video Game Market Size & Share Growth Report, 2030, grandviewresearch.
