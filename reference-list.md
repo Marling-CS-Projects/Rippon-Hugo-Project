@@ -9,3 +9,5 @@ Bureau, U.C., 2021. Computer and Internet Use in the United States: 2018 \[WWW D
 Prescott, C., 2020. Internet access – households and individuals, Great Britain. Office for National Statistics.
 
 Howarth, J., 2023. 50+ Amazing Video Game Industry Statistics (2023). Exploding Topics. URL https://explodingtopics.com/blog/video-game-stats (accessed 3.30.23).
+
+Newzoo, 2018. Top Countries & Markets by Game Revenues \[WWW Document]. Newzoo. URL https://newzoo.com/resources/rankings/top-10-countries-by-game-revenues (accessed 3.30.23).
