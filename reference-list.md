@@ -7,3 +7,5 @@ Pallavicini, F., 2022. The Effects of Playing Video Games on Stress, Anxiety, De
 Bureau, U.C., 2021. Computer and Internet Use in the United States: 2018 \[WWW Document]. Census.gov. URL https://www.census.gov/newsroom/press-releases/2021/computer-internet-use.html (accessed 3.28.23).
 
 Prescott, C., 2020. Internet access – households and individuals, Great Britain. Office for National Statistics.
+
+Howarth, J., 2023. 50+ Amazing Video Game Industry Statistics (2023). Exploding Topics. URL https://explodingtopics.com/blog/video-game-stats (accessed 3.30.23).
