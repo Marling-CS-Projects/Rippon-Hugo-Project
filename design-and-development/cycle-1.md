@@ -1,13 +1,13 @@
-# 2.2.1 Cycle 1
+# 2.2.1 Cycle 1 Setting Up
 
 ## Design
 
 ### Objectives
 
-\[describe the cycle]
+Set up a basic environment where I can begin developing my game
 
-* [x] Do a thing
-* [x] Do another thing
+* [x] Get a basic kaboom.js repl running
+* [x] Render a sprite
 
 ### Usability Features
 
