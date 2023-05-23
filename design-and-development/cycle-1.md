@@ -2,6 +2,8 @@
 
 ## Design
 
+For this cycle I want to get a repl with kaboom.js running and be able to render a simple sprite to get used to the environment I will be working in for the rest of this project.
+
 ### Objectives
 
 Set up a basic environment where I can begin developing my game
