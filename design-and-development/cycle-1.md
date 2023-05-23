@@ -13,9 +13,10 @@ For this cycle I want to get a repl with kaboom.js running and be able to render
 
 ### Key Variables
 
-| Variable Name | Use                   |
-| ------------- | --------------------- |
-| foo           | does something useful |
+| Variable Name | Use                                         |
+| ------------- | ------------------------------------------- |
+| height        | height in pixels of the game to be rendered |
+| width         | width in pixels of the game to be rendered  |
 
 ### Pseudocode
 
