@@ -21,9 +21,15 @@ For this cycle I want to get a repl with kaboom.js running and be able to render
 ### Pseudocode
 
 ```
-procedure do_something
-    
-end procedure
+import "kaboom"
+
+const WIDTH = 1920
+const HEIGHT = 1080
+
+kaboom({
+    width: WIDTH
+    height: HEIGHT    
+})
 ```
 
 ## Development
