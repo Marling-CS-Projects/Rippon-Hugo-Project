@@ -76,3 +76,5 @@ The only challenge I encountered is the times for the kaboom project to load bei
 | 1    | Run code     | Kaboom should run | Kaboom ran normally   | Pass      |
 
 ### Evidence
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Kaboom running in fullscreen</p></figcaption></figure>
