@@ -32,6 +32,8 @@ kaboom({
 })
 
 loadBean()
+
+add(bean)
 ```
 
 ## Development
