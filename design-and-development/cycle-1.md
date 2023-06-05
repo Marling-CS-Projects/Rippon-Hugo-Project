@@ -30,15 +30,19 @@ kaboom({
     width: WIDTH
     height: HEIGHT    
 })
+
+loadBean()
 ```
 
 ## Development
 
 ### Outcome
 
+The outcome of this cycle is a stage set for development with kaboom.js within replit.
+
 ### Challenges
 
-Description of challenges
+The only challenge I encountered is the times for the kaboom project to load being very long. This fixed itself, however as leaving it for a minute results in the project working
 
 ## Testing
 
