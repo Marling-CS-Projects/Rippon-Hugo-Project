@@ -67,7 +67,7 @@ The only challenge I encountered is the times for the kaboom project to load bei
 
 ## Testing
 
-Evidence for testing
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Screenshot of kaboom running in replit</p></figcaption></figure>
 
 ### Tests
 
