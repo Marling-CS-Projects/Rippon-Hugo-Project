@@ -71,9 +71,8 @@ The only challenge I encountered is the times for the kaboom project to load bei
 
 ### Tests
 
-| Test | Instructions  | What I expect     | What actually happens | Pass/Fail |
-| ---- | ------------- | ----------------- | --------------------- | --------- |
-| 1    | Run code      | Kaboom should run | Kaboom ran normally   | Pass      |
-| 2    | Press buttons | Something happens | As expected           | Pass      |
+| Test | Instructions | What I expect     | What actually happens | Pass/Fail |
+| ---- | ------------ | ----------------- | --------------------- | --------- |
+| 1    | Run code     | Kaboom should run | Kaboom ran normally   | Pass      |
 
 ### Evidence
