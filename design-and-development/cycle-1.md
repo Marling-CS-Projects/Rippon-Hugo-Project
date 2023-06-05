@@ -42,6 +42,25 @@ add(bean)
 
 The outcome of this cycle is a stage set for development with kaboom.js within replit.
 
+```
+import kaboom from "kaboom"
+import "kaboom/global"
+
+const WIDTH = 1920
+const HEIGHT = 1080
+
+kaboom({
+  width: WIDTH,
+  height: HEIGHT
+})
+
+loadBean()
+
+add([
+  sprite("bean")
+])
+```
+
 ### Challenges
 
 The only challenge I encountered is the times for the kaboom project to load being very long. This fixed itself, however as leaving it for a minute results in the project working
