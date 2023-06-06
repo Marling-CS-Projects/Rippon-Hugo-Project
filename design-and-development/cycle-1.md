@@ -23,13 +23,13 @@ For this cycle I want to get a repl with kaboom.js running and be able to render
 ```
 import "kaboom"
 
-const WIDTH = 1920
-const HEIGHT = 1080
+constant WIDTH = 1920
+constant HEIGHT = 1080
 
-kaboom({
-    width: WIDTH
-    height: HEIGHT    
-})
+kaboom(
+    width = WIDTH
+    height = HEIGHT    
+)
 
 loadBean()
 
