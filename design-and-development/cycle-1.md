@@ -11,6 +11,8 @@ For this cycle I want to get a repl with kaboom.js running and be able to render
 
 ### Usability Features
 
+Colors will be contrasting allowing players to easily distinguish different features.
+
 ### Key Variables
 
 | Variable Name | Use                                         |
