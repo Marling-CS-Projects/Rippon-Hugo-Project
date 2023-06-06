@@ -44,7 +44,7 @@ add(bean)
 
 The outcome of this cycle is a stage set for development with kaboom.js within replit.
 
-```
+```javascript
 import kaboom from "kaboom"
 import "kaboom/global"
 
