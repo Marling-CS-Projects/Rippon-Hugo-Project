@@ -61,13 +61,13 @@ add([
 ])
 ```
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Kaboom running in fullscreen</p></figcaption></figure>
+
 ### Challenges
 
 The only challenge I encountered is the times for the kaboom project to load being very long. This fixed itself, however as leaving it for a minute results in the project working
 
 ## Testing
-
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Screenshot of kaboom running in replit</p></figcaption></figure>
 
 ### Tests
 
@@ -77,4 +77,4 @@ The only challenge I encountered is the times for the kaboom project to load bei
 
 ### Evidence
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Kaboom running in fullscreen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Kaboom code in replit</p></figcaption></figure>
