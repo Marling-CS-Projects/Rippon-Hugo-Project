@@ -63,7 +63,7 @@ add([
 ])
 ```
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Kaboom running in fullscreen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Kaboom running in fullscreen</p></figcaption></figure>
 
 ### Challenges
 
