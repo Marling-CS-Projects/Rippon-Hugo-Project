@@ -79,4 +79,4 @@ The only challenge I encountered is the times for the kaboom project to load bei
 
 ### Evidence
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Kaboom code in replit</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Kaboom code in replit</p></figcaption></figure>
