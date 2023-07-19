@@ -19,7 +19,8 @@
 * [2.2.1 Cycle 1 Setting Up](design-and-development/cycle-1.md)
 * [2.2.2 Cycle 2 Rotation](design-and-development/2.2.2-cycle-2-rotation.md)
 * [2.2.3 Cycle 3 Adding Power](design-and-development/2.2.3-cycle-3-adding-power.md)
-* [2.2.4 Firing Bullets](design-and-development/2.2.4-firing-bullets.md)
+* [2.2.4 Cycle 4 Firing Bullets](design-and-development/2.2.4-cycle-4-firing-bullets.md)
+* [2.2.5 Cycle 5 Menus](design-and-development/2.2.5-cycle-5-menus.md)
 
 ## 3 Testing <a href="#testing" id="testing"></a>
 
