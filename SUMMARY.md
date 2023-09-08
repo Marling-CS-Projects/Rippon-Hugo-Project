@@ -22,6 +22,7 @@
 * [2.2.4 Cycle 4 Firing Bullets](design-and-development/2.2.4-firing-bullets.md)
 * [2.2.5 Cycle 5 Menus](design-and-development/2.2.5-cycle-5-menus.md)
 * [2.2.6 Cycle 6 Terrain](design-and-development/2.2.6-cycle-6-terrain.md)
+* [Page](design-and-development/page.md)
 
 ## 3 Testing <a href="#testing" id="testing"></a>
 
