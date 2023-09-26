@@ -24,6 +24,7 @@
 * [2.2.6 Cycle 6 Terrain](design-and-development/2.2.6-cycle-6-terrain.md)
 * [2.2.7 Cycle 7 Randomised Terrain](design-and-development/2.2.7-cycle-7-randomised-terrain.md)
 * [2.2.8 Cycle 8 Wind](design-and-development/2.2.8-cycle-8-wind.md)
+* [2.2.9 Cycle 9 Multiplayer](design-and-development/2.2.9-cycle-9-multiplayer.md)
 
 ## 3 Testing <a href="#testing" id="testing"></a>
 
